@@ -1,0 +1,10 @@
+v 4
+file . "detector.vhd" "e3b098daae628f8d40eb2bbdb05460ff60ff4a61" "20260220113939.711":
+  entity detector at 1( 0) + 0 on 21;
+  architecture rtl of detector at 29( 825) + 0 on 22;
+file . "fifo16.vhd" "068e580004d00f27b0ed7dc38d805affeca94ca8" "20260220113939.618":
+  entity fifo16 at 1( 0) + 0 on 19;
+  architecture rtl of fifo16 at 21( 623) + 0 on 20;
+file . "tb_detector.vhd" "ca049e51913a2f10cf066314776d20464752c582" "20260220113939.794":
+  entity tb_detector at 1( 0) + 0 on 23;
+  architecture sim of tb_detector at 8( 110) + 0 on 24;
