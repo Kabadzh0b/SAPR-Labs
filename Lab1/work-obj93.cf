@@ -1,0 +1,13 @@
+v 4
+file . "alur.vhd" "f590a0af2073c9d192ff15a098e6baf71da82fef" "20260220095907.511":
+  entity alur at 1( 0) + 0 on 31;
+  architecture behavioral of alur at 18( 676) + 0 on 32;
+file . "tb_alu.vhd" "feb79313851d9bdab737b3c8a2ebdaaefb55fe35" "20260220095901.867":
+  entity tb_alu at 1( 0) + 0 on 27;
+  architecture behavioral of tb_alu at 8( 100) + 0 on 28;
+file . "alu.vhd" "205c4db0a07970e096f50c21c9683d4d2e4a26ea" "20260220095907.445":
+  entity alu at 1( 0) + 0 on 29;
+  architecture behavioral of alu at 16( 370) + 0 on 30;
+file . "tb_alur.vhd" "677c85547519d85c4ee36012eca8baeab6b2d3f6" "20260220095907.546":
+  entity tb_alur at 1( 0) + 0 on 33;
+  architecture behavioral of tb_alur at 8( 102) + 0 on 34;
